@@ -1,4 +1,4 @@
-<h1>‎‎‏‎ㅤㅤㅤㅤㅤㅤModern MP3-Player On Python<h1>
+<h1>‎‎‏‎ㅤㅤModern MP3-Player On Python<h1>
   
 ![Logo](https://github.com/AYUHIK264/Modern-MP3-Player/blob/main/source/images/logo.png)
 ㅤ
