@@ -2,6 +2,7 @@
   
 ![Logo](https://github.com/AYUHIK264/Modern-MP3-Player/blob/main/source/images/logo.png)
 [![Python](https://img.shields.io/badge/Python-3.12.5-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Chat GPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 ![Issues](https://img.shields.io/badge/Issues-0_open-green)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
 [![Github](https://img.shields.io/badge/GitHub-AYUHIK264-181717.svg?style=flat&logo=github)](https://github.com/AYUHIK264)
