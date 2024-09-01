@@ -3,7 +3,7 @@
 ![Logo](https://github.com/AYUHIK264/Modern-MP3-Player/blob/main/source/images/logo.png)
 [![Python](https://img.shields.io/badge/Python-3.12.5-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 ![Issues](https://img.shields.io/badge/Issues-0_open-green)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
 [![Github](https://img.shields.io/badge/GitHub-AYUHIK264-181717.svg?style=flat&logo=github)](https://github.com/AYUHIK264)
 
 ### MP3-Player with modern design. Using PyQt6 library and QT Designer application. MP3-Player was written in 2-3 days, as well as 20-30% of the code was written Chat GPT.
