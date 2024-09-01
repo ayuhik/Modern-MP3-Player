@@ -1,6 +1,10 @@
 <h1>‎‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤModern MP3-Player On Python<h1>
   
 ![Logo](https://github.com/AYUHIK264/Modern-MP3-Player/blob/main/source/images/logo.png)
+ㅤ
+ㅤㅤ
+ㅤ
+ㅤ
 [![Python](https://img.shields.io/badge/Python-3.12.5-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Chat GPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 ![Issues](https://img.shields.io/badge/Issues-0_open-green)
