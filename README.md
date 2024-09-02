@@ -1,4 +1,4 @@
-<h1>‎‎‏Modern MP3-Player On Python<h1>
+<h1>‎‎‏Modern MP3-Player On Python🎵<h1>
   
 ![Logo](https://github.com/AYUHIK264/Modern-MP3-Player/blob/main/source/images/logo.png)
 ㅤ
@@ -15,7 +15,7 @@
 
 ![ScreenShot](https://github.com/AYUHIK264/Modern-MP3-Player/blob/main/source/images/player_screenshot.png)
 
-## features:
+## ✨features:
 - ***track selection***
 - ***track list***
 - ***track rewind***
