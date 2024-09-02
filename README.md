@@ -8,7 +8,7 @@
 [![Chat GPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 ![Issues](https://img.shields.io/badge/Issues-0_open-green)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
-[![Github](https://img.shields.io/badge/GitHub-logo-181717.svg?style=flat&logo=github)](https://github.com/ayuhik)
+[![Github](https://img.shields.io/badge/GitHub-account-181717.svg?style=flat&logo=github)](https://github.com/ayuhik)
 
 ### MP3-Player with modern design. Using PyQt6 library and QT Designer application. MP3-Player was written in 2-3 days, as well as 20-30% of the code was written Chat GPT.
 
